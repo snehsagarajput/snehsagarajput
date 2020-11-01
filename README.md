@@ -1,4 +1,4 @@
-<img align="center"/>
+<img align="center" title="Intro" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/header.gif"/>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/snehsagarajput/" title="LinkedIn Profile"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -8,8 +8,7 @@
 <p align="center">
   Hi, I'm Sneh Sagar, a Programming Enthusiast from India
   <br>
-  <br>
-  🔬 I'm currently studying for a bachelor's degree in Electronics and Telecommunication Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar
+  🔬 I'm currently studying for a bachelor's degree in Electronics and Telecommunication Engineering<br> at Kalinga Institute of Industrial Technology, Bhubaneswar
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -44,8 +43,7 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=
-nst-app&theme=gotham"></a>
+  <a align="left" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
 <a align="right" href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"></a>
 </p>
 <br><br>
