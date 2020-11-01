@@ -40,12 +40,17 @@
 </p>
 
 <p width="100%" align="center">
-<img width="380" height="150" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham">
-<img width="380" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham">
+  <p  align="left">
+    <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham">
+    <img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham">
+  </p>
+  <p align="right">
+    <img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham">
+  </p>
 </p>
 
 <p align="center">
-<img width="380" height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham">
+
 </p>
 
 <h2 align="center">Best Repositories</h2>
