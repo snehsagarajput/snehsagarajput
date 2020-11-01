@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sneh Sagar, a Programming Enthusiast from India
+  Hi, I'm a Programming Enthusiast from India
   <br>
   🔬 I'm currently studying for a bachelor's degree in Electronics and Telecommunication Engineering<br> at Kalinga Institute of Industrial Technology, Bhubaneswar
   <br>
@@ -37,23 +37,24 @@
   <code><img title="Visual Studio Code" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/vscode.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/problemSolving.png"></code>
   <code><img title="Chess" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/chess.svg"></code>
-
-<hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
-
-<hr>
-
-<h2 align="center">Repositories</h2>
+</p>
 
 <p width="100%" align="center">
- <a  align="left" width="200px" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" width="50%"  src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
-<a align="right" href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"></a>
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img  height="200" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
+<a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham"></a>
 </p>
+
+
+
+<p width="100%" align="center">
+ <a  width="50%" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
+<a width="50%" href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"></a>
+</p>
+<br>
+<br><br><br>
 <br><br>
 
 <h4 align="center"><a href=https://github.com/snehsagarajput?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
 <!--
 **snehsagarajput/snehsagarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
