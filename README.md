@@ -41,7 +41,7 @@
 
 <p width="100%" align="center">
 <img width="380" height="150" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham">
-<img width="380" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham">
+<img width="380" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham">
 </p>
 
 <br>
