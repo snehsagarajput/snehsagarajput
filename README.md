@@ -5,21 +5,34 @@
   <code><a href="https://www.instagram.com/sneh_xf/" title="Instagram Profile"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm a Programming Enthusiast from India
-  <br>
-  🔬 I'm currently studying for a bachelor's degree in Electronics and Telecommunication Engineering<br> at Kalinga Institute of Industrial Technology, Bhubaneswar
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning to master Data Structures
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/snehsagarajput/snehsagarajput/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: snehsagarajput@gmail.com">snehsagarajput@gmail.com</a>
-</p>
+
+```python
+class Sneh:
+
+    def __init__(self):
+        self.username = 'snehsagarajput'
+        self.name = 'Sneh Sagar'
+        self.mail = 'snehsagarajput@gmail.com'
+        self.college = 'Kalinga Institute of Industrial Technology, Bhubaneswar'
+        self.code = {
+            'lanuages': ['C', 'C++', 'Python'],
+            'frameworks': ['React-Native', 'Tensorflow', 'Scikit-Learn'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+            'backend': ['Flask'],
+            'tools': ['GIT', 'GitHub', 'Jupyter Notebook', 'VS Code']
+        }
+        self.miscellaneous = ['Heroku', 'MySQL', 'Arduino']
+
+    def __str__(self):
+        return self.name
 
 
+if __name__ == '__main__':
+    me = Sneh()
+
+
+```
+<hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
@@ -55,35 +68,16 @@
   </table>
 </p>
 
+<hr>
+
 <h2 align="center">Best Repositories</h2>
 <p align="center">
 <table align="center">
   <tr>
-    <td><a href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham" height="122" ></a></td>
-    <td><a  href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"   ></a></td>
+    <td><a href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham" height="122" ></a></td>
+    <td><a  href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"   ></a></td>
   </tr>
   </table>
 </p>
 <hr>
-
 <h4 align="center"><a href=https://github.com/snehsagarajput?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-<!--
-**snehsagarajput/snehsagarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-
--->
