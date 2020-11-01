@@ -32,10 +32,12 @@ if __name__ == '__main__':
 
 
 ```
+
+
 <hr>
 
+<!--
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/cpp.svg"></code>
@@ -51,7 +53,7 @@ if __name__ == '__main__':
   <code><img title="Problem Solving" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/problemSolving.png"></code>
   <code><img title="Chess" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/chess.svg"></code>
 </p>
-
+-->
 <hr>
 
 
@@ -69,7 +71,7 @@ if __name__ == '__main__':
 </p>
 
 <hr>
-
+<!--
 <h2 align="center">Best Repositories</h2>
 <p align="center">
 <table align="center">
@@ -80,4 +82,5 @@ if __name__ == '__main__':
   </table>
 </p>
 <hr>
+-->
 <h4 align="center"><a href=https://github.com/snehsagarajput?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
