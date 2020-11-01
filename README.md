@@ -1,4 +1,4 @@
-<img align="center" title="Intro" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/header.gif"/>
+<h1 align="center"><img title="Intro" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/header.gif"/></h>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/snehsagarajput/" title="LinkedIn Profile"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -28,11 +28,15 @@
   <code><img title="C++" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/cpp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/python.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/css.svg"></code>
+  <code><img title="Reactjs" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/react.svg"></code>
+  <code><img title="React-Native" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/react-native.png"></code>
+  <code><img title="Tensorflow" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/tensorflow.svg"></code>
+  <code><img title="Scikit-Learn" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/scikit-learn.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/visualstudio.png"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/problemSolving.png"></code>
+  <code><img title="Chess" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/chess.svg"></code>
 
 <hr>
 
@@ -43,12 +47,10 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
+ <a  align="left" width="200px" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" width="50%"  src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
 <a align="right" href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"></a>
 </p>
 <br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h4 align="center"><a href=https://github.com/snehsagarajput?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
