@@ -39,12 +39,15 @@
   <code><img title="Chess" height="25" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/chess.svg"></code>
 </p>
 
-<p width="100%" align="center">
-  <p  align="left">
+<hr>
+
+<p width="100%">
+  <p  float="left" width="50%">
     <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham">
+    <br>
     <img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham">
   </p>
-  <p align="right">
+  <p float="right" width="50%">
     <img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham">
   </p>
 </p>
