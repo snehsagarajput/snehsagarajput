@@ -57,9 +57,9 @@
 
 <h2 align="center">Best Repositories</h2>
 <p align="center">
-<table>
+<table align="center">
   <tr>
-    <td><a href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"  ></a></td>
+    <td><a href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham" height="122" ></a></td>
     <td><a  href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"   ></a></td>
   </tr>
   </table>
