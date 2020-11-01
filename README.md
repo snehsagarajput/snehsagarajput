@@ -41,19 +41,18 @@
 
 <hr>
 
-<p width="100%">
-  <p  float="left" width="50%">
-    <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham">
-    <br>
-    <img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham">
-  </p>
-  <p float="right" width="50%">
-    <img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham">
-  </p>
-</p>
+
 
 <p align="center">
-
+<table align="center">
+  <tr>
+    <td ><img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham"></td>
+    <td rowspan="2"><img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham"></td>
+  </tr>
+  <tr>
+    <td><img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></td>
+  </tr>
+  </table>
 </p>
 
 <h2 align="center">Best Repositories</h2>
@@ -79,6 +78,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
