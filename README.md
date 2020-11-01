@@ -19,7 +19,7 @@
   📫 How to reach me: <a href="mailto: snehsagarajput@gmail.com">snehsagarajput@gmail.com</a>
 </p>
 
-<hr>
+
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
@@ -40,19 +40,18 @@
 </p>
 
 <p width="100%" align="center">
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img  height="200" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham"></a>
 </p>
 
-
+<h2 align="center">Best Repositories</h2>
 
 <p width="100%" align="center">
- <a  width="50%" href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham"></a>
-<a width="50%" href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"></a>
+ <a href="https://github.com/snehsagarajput/nst-app" title="Neural Style Transfer Web App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=nst-app&theme=gotham" height="120" width="400" ></a>
+<a  href="https://github.com/snehsagarajput/sudoku-solver-app" title="Sudoku Solver Android App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=snehsagarajput&repo=sudoku-solver-app&theme=gotham"  width="400" height="120"></a>
 </p>
-<br>
-<br><br><br>
-<br><br>
+
+<br><br><br><br>
 
 <h4 align="center"><a href=https://github.com/snehsagarajput?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <!--
