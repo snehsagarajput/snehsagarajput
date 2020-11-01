@@ -40,8 +40,8 @@
 </p>
 
 <p width="100%" align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="450" height="150" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="380" height="150" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="380" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&layout=compact&hide=jupyter%20notebook&theme=gotham"></a>
 </p>
 
 <h2 align="center">Best Repositories</h2>
