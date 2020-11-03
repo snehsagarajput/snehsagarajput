@@ -13,6 +13,7 @@ class Sneh:
         self.username = 'snehsagarajput'
         self.name = 'Sneh Sagar'
         self.mail = 'snehsagarajput@gmail.com'
+        self.website  'https://snehsagarajput.github.io'
         self.college = 'Kalinga Institute of Industrial Technology, Bhubaneswar'
         self.code = {
             'lanuages': ['C', 'C++', 'Python'],
