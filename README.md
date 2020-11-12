@@ -13,7 +13,7 @@ class Sneh:
         self.username = 'snehsagarajput'
         self.name = 'Sneh Sagar'
         self.mail = 'snehsagarajput@gmail.com'
-        self.website  'https://snehsagarajput.github.io'
+        self.website  'https://www.snehsagar.ml'
         self.college = 'Kalinga Institute of Industrial Technology, Bhubaneswar'
         self.code = {
             'lanuages': ['C', 'C++', 'Python'],
@@ -66,7 +66,7 @@ if __name__ == '__main__':
     <td rowspan="2"><img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham"></td>
   </tr>
   <tr>
-    <td><img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham"></td>
+    <td><img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham&langs_count=5"></td>
   </tr>
   </table>
 </p>
