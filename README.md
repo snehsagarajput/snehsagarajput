@@ -63,10 +63,10 @@ if __name__ == '__main__':
 <table align="center">
   <tr>
     <td ><img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=snehsagarajput&hide=stars&count_private=true&show_icons=true&theme=gotham"></td>
-    <td rowspan="2"><img width="380" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham"></td>
+    <td rowspan="2"><img width="380" height="340" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham&langs_count=5"></td>
   </tr>
   <tr>
-    <td><img width="380" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=snehsagarajput&count_private=true&show_icons=true&theme=gotham&langs_count=5"></td>
+    <td><img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehsagarajput&exclude_repo=darknet,snehsagarajput&hide=jupyter%20notebook&theme=gotham"></td>
   </tr>
   </table>
 </p>
