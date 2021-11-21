@@ -1,6 +1,6 @@
 <h1 align="center"><img title="Intro" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/header.gif"/></h>
 <h5 align="center">
-  <code><a href="https://www.snehsagar.ml/" title="Personal Site"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput.github.io/blob/master/img/favicon.png"> Portfolio</a></code>
+  <code><a href="https://snehsagar.vercel.app/" title="Personal Site"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput.github.io/blob/master/img/favicon.png"> Portfolio</a></code>
   <code><a href="https://www.linkedin.com/in/snehsagarajput/" title="LinkedIn Profile"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/sneh_xf/" title="Instagram Profile"><img width="22" src="https://github.com/snehsagarajput/snehsagarajput/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
