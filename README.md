@@ -13,14 +13,15 @@ class Sneh:
         self.username = 'snehsagarajput'
         self.name = 'Sneh Sagar'
         self.mail = 'snehsagarajput@gmail.com'
-        self.website  'https://www.snehsagar.ml'
+        self.website  'https://snehsagar.vercel.app'
+        self.dev = React Native Developer
         self.college = 'Kalinga Institute of Industrial Technology, Bhubaneswar'
         self.code = {
-            'lanuages': ['C', 'C++', 'Python'],
-            'frameworks': ['React-Native', 'Tensorflow', 'Scikit-Learn'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
-            'backend': ['Flask'],
-            'tools': ['GIT', 'GitHub', 'Jupyter Notebook', 'VS Code']
+            'lanuages': ['JavaScript', 'C', 'C++', 'Python'],
+            'frameworks': ['React-Native', 'Tensorflow'],
+            'frontend': ['HTML', 'CSS', 'ReactJS'],
+            'backend': ['Flask', 'Firestore'],
+            'tools': ['GIT', 'GitHub', 'VS Code', 'Jupyter Notebook']
         }
         self.miscellaneous = ['Heroku', 'MySQL', 'Arduino']
 
